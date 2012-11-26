@@ -1,0 +1,16 @@
+{
+  "author": "Lab212 <contact@jblanche.fr>",
+  "name": "minuscule",
+  "description": "npm package for minuscule installation",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "simple-mplayer": "git+ssh://git@github.com:jblanche/simple-mplayer.git#master",
+    "underscore": "~1.4.2"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
